@@ -1,1 +1,3 @@
 # LightweightTextEditor
+
+Written in C
